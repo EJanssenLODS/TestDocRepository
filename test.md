@@ -1,3 +1,5 @@
+#O365 Password Reset
+
 Once your account has been created/enabled for Office365 and AzureAD, you can reset your passwords through the Office Portal.
 
 > [!ALERT] This lab is not a sandbox, at the end of the steps your password will be changed.
