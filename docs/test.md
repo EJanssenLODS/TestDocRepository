@@ -8,4 +8,5 @@ Once your account has been created/enabled for Office365 and AzureAD, you can re
 
 1.	Once logged in, select the setting icon at the top right next to your name, scroll down and select “Change your password”.  
         ![Image](o7jy9i9x.jpg)
-1.	In the new tab that opens, simply supply your current password and create a new password, then click Submit.
+1.	In the new tab that opens, simply supply your current password and create a new password, then click Submit.  
+        ![Image](0g6bpbfs.jpg)
