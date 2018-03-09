@@ -1,5 +1,7 @@
 # Changing your Office365 account password
 
+**There is a lab available to assist in this process, you can access it with your LODS credentials by clicking [this link](https://labondemand.com/AuthenticatedLaunch/39690?providerId=2).**
+
 Once your account has been created/enabled for Office365 and AzureAD, you can reset your passwords through the Office Portal.
 
 1. Navigate to https://portal.office.com and sign in with your LODS credentials if prompted
